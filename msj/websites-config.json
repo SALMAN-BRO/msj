@@ -1,0 +1,12 @@
+{
+  "journal": {
+    "title": "Trading Journal",
+    "description": "Track and analyze your trading activities",
+    "category": "finance"
+  },
+  "maintainer": {
+    "title": "Maintainer",
+    "description": "Website maintenance and management tools",
+    "category": "tools"
+  }
+}
